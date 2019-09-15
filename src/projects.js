@@ -1,7 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-// import {Col} from "reactstrap"
-import images from "/Users/maryclayton/Documents/LambdaSchool/firstproject/src/Images/img.jpg";
+import images from "/Users/maryclayton/Documents/LambdaSchool/Mary-portfolio/src/img.jpg";
 
 const Sections = styled.section`
   display: flex;
